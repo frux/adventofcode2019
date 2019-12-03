@@ -1,0 +1,20 @@
+{
+  "name": "adventofcode2019",
+  "version": "1.0.0",
+  "description": "My Advent of Code 2019 https://adventofcode.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./index.ts"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "author": "frux <qdinov@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.2"
+  }
+}
